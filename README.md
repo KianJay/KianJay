@@ -13,7 +13,7 @@
   I am particularly interested in large-scale Software Systems, Containerisation and Orchestration.🚀 <br/>
 </p>
 
-#### Languages & Tools I dive into
+#### Languages & Tools I am engaged in
 <p>
 Mongo DB, Express, React, Node.js <br/>
 MySQL, Python,<br/> 
