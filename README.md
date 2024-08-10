@@ -16,7 +16,8 @@
 #### Languages & Tools I dive into
 <p>
 Mongo DB, Express, React, Node.js <br/>
-MySQL, Python <br/>
+MySQL, Python,<br/> 
+Jira, Slack, Git <br/>
 </p>
 
 #### Containerisation / Orchestration
