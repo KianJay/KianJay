@@ -7,8 +7,7 @@
 
 <p>
   Hi there👋&nbsp;<br/>
-  I'm now diving into <b>Software Engineering</b> <br/>
-  After several years in IT Product Management for Web/Cloud Hosting Services☁️<br/>
+  With several years in IT Product Management for Web/Cloud Hosting Services☁️<br/>
   I bring a strong understanding of IT infrastructure and proven collaboration skills from working with cross-functional project teams.<br/>
   I am particularly interested in large-scale Software Systems, Containerisation and Orchestration.🚀 <br/>
 </p>
