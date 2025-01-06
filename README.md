@@ -7,9 +7,11 @@
 
 <p>
   Hi there👋&nbsp;<br/>
-  With several years in IT Product Management for Web/Cloud Hosting Services☁️<br/>
+  I am now particularly interested in Software Systems/Solutions and IT infrastructure🚀 <br/>
+  
+  With several years as Product Manager in Web/Cloud Hosting Industry☁️<br/>
   I bring a strong understanding of IT infrastructure and proven collaboration skills from working with cross-functional project teams.<br/>
-  I am particularly interested in large-scale Software Systems, Containerisation and Orchestration.🚀 <br/>
+
 </p>
 
 #### Languages & Tools I am engaged in
