@@ -8,8 +8,8 @@
 
 #### Languages & Tools I am engaged in
 <p>
-Mongo DB, Express, React, Node.js <br/>
 MySQL, Python, Tableau<br/> 
+Mongo DB, Express, React, Node.js <br/>
 Jira, Slack, Git <br/>
 </p>
 
