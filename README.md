@@ -8,13 +8,12 @@
 
 #### Languages & Tools I am engaged in
 <p>
-MySQL, Python, Tableau<br/> 
-Mongo DB, Express, React, Node.js <br/>
+Python, MySQL, Tableau <br/> 
 Jira, Slack, Git <br/>
+Mongo DB, Express, React, Node.js <br/>
 </p>
 
 #### Containerisation / Orchestration
 <p>
-Vagrant, TerraForm, Docker, Kubernetes <br/>
-Github Action
+AWS, Vagrant, TerraForm, Docker, Github Action <br/>
 </p>
