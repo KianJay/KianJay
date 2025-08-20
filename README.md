@@ -7,9 +7,10 @@
 
 #### Languages & Tools I am engaged in
 <p>
-Python, MySQL, Tableau, Snowflake <br/> 
+Python, React.js, Node.js, Express.js, Vite <br/> 
+Mongo DB, MySQL, PostgreSQL, <br/>
+Tableau, Snowflake <br/>
 Jira, Slack, Git <br/>
-Mongo DB, Express, React, Node.js <br/>
 </p>
 
 #### Infrastracture / Orchestration
