@@ -15,5 +15,5 @@ Jira, Slack, Git <br/>
 
 #### Infrastracture / Orchestration
 <p>
-AWS, Azure, Vagrant, TerraForm, Docker, Github Action <br/>
+AWS, Azure, Vagrant, TerraForm, Ansible, Docker, Github Action <br/>
 </p>
